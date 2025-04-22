@@ -1,8 +1,40 @@
 {
   "vakken": [
     {
-      "id": 1,
+      "id": "1",
       "naam": "Webdev"
+    },
+    {
+      "id": "991e",
+      "naam": "Frans"
+    },
+    {
+      "id": "8237",
+      "naam": "Nederlands"
+    },
+    {
+      "id": "1025",
+      "naam": "Engels"
+    },
+    {
+      "id": "1a81",
+      "naam": "Infra"
+    },
+    {
+      "id": "595e",
+      "naam": "Wiskunde"
+    },
+    {
+      "id": "9fc3",
+      "naam": "Prog"
+    },
+    {
+      "id": "1437",
+      "naam": "Wetenschappen"
+    },
+    {
+      "id": "ff7a",
+      "naam": "Geschiedenis"
     }
   ]
 }
